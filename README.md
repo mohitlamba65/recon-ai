@@ -1,8 +1,7 @@
 # 🛰️ recon-ai
-AI-powered drone surveillance system for real-time object detection in aerial footage, aligned with modern reconnaissance and defense needs.
-
 
 **AI-Powered Drone Surveillance System**  
+AI-powered drone surveillance system for real-time object detection in aerial footage, aligned with modern reconnaissance and defense needs.
 Detect vehicles and structures in aerial footage using YOLO-based object detection models. Built for modern reconnaissance and non-kinetic warfare scenarios.
 
 ---
